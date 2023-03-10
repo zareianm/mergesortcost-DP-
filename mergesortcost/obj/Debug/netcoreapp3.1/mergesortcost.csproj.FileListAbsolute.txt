@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\bin\Debug\netcoreapp3.1\mergesortcost.exe
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\bin\Debug\netcoreapp3.1\mergesortcost.deps.json
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\bin\Debug\netcoreapp3.1\mergesortcost.runtimeconfig.json
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\bin\Debug\netcoreapp3.1\mergesortcost.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\bin\Debug\netcoreapp3.1\mergesortcost.dll
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\bin\Debug\netcoreapp3.1\mergesortcost.pdb
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.dll
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.pdb
+C:\Users\ADMIN\Desktop\mergesortcost\mergesortcost\obj\Debug\netcoreapp3.1\mergesortcost.genruntimeconfig.cache
